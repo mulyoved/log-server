@@ -1,0 +1,17 @@
+{
+  "name": "log-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "winston": "^1.0.0",
+    "winston-websocket": "^0.1.0",
+    "winstond": "0.0.2"
+  }
+}
